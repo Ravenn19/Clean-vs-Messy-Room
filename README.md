@@ -51,7 +51,7 @@ clean-vs-messy-room/
 
 The trained model (`cleanliness_model.h5`, ~218 MB) is hosted on Google Drive:
 
-👉 **[Click here to download cleanliness_model.h5]([https://drive.google.com/file/d/1AbCDeFgHiJkLmNopQRStUvWxYz123456/view?usp=sharing](https://drive.google.com/drive/folders/1cxYpmxDMiDTAfF4qmJW_UzfRp6Rom4Rk?usp=sharing))**
+👉 **[Click here to download cleanliness_model.h5](https://drive.google.com/drive/folders/1cxYpmxDMiDTAfF4qmJW_UzfRp6Rom4Rk?usp=sharing)**
 
 > After downloading, place the file in your project’s root directory:
 >
